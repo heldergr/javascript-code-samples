@@ -1,4 +1,4 @@
 # javascript-code-samples
 
 * Angular
-  * [Video Js com Angular 7](videojs-angular-7)
+  * [Video Js com Angular 7](angular/videojs-angular-7.md)
