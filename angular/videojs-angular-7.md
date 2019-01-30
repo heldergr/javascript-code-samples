@@ -1,3 +1,8 @@
+# Motivação
+Adicionar componente que toca vídeo a uma página implementada com Angular (na implementação usei a versão 7) e incluir funcionalidade que permite ir para determinado momento no vídeo.
+
+# Codificando
+
 **1. Adicionar dependência para video.js**
 
 `
